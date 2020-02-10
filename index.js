@@ -19,6 +19,6 @@ if(string.toLowerCase() == lowercase)
   return "I can't hear you!"
 if(string.toUpperCase() == upercase)
   return "YES INDEED!"
-if(string == "I love you)
+if(string == "I love you")
   return "I love you, too"
 }
