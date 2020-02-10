@@ -20,5 +20,5 @@ return "I can't hear you!"
 if(string == string.toUpperCase())
   return "YES INDEED!"
 if(string == "I love you")
-  return "I love you, too."
+  return "I love you, too,"
 }
